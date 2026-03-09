@@ -169,10 +169,8 @@ jupyter notebook
 ---
 
 ## 👤 Autor
-
+Douglas Israel
 Projeto desenvolvido como parte do desafio **Churn de Clientes — TelecomX**  
-Equipe de Data Science · TelecomX
-
 ---
 
 *🐍 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Imbalanced-learn*
